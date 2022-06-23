@@ -21,7 +21,7 @@
     "react-google-login": "5.2.2",
     "react-player": "2.9.0",
     "react-youtube": "7.13.1",
-    "recoil": "0.4.1",
+    "recoil": "0.7.4",
     "swr": "1.0.1"
   },
   "devDependencies": {
